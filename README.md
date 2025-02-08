@@ -1,7 +1,6 @@
 
 <h1 align="center">
   <span>¡Hola! Soy <span id="name">Marky</span></span>
-  <br />
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hand wave" width="30" style="animation: wave 2.5s infinite">
 </h1>
 
@@ -24,7 +23,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-
+<!-- 
 ```css
 @keyframes wave {
   0% { transform: rotate(0deg); }
@@ -36,3 +35,4 @@
   60% { transform: rotate(0deg); }
   100% { transform: rotate(0deg); }
 }
+>
