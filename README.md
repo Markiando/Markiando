@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <span>¡Hola! Soy <span id="name">Marky</span></span>
+  <span>¡Holaaa!</span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hand wave" width="30" style="animation: wave 2.5s infinite">
 </h1>
 
@@ -8,7 +8,7 @@
 
 ### 🌱 Sobre mí 
 - 🎓 Estudiante de Ingeniería en Software apasionada por el desarrollo web y la innovación tecnológica.  
-- 💻 Actualmente aprendiendo **React**, **TailwindCSS** y **TypeScript**.  
+- 💻 Actualmente aprendiendo **React**, **TailwindCSS**.  
 - 🌍 Me interesa crear proyectos de impacto sostenible, tecnología verde e IoT.  
 - 🚀 Siempre buscando nuevos desafíos en hackathons y proyectos colaborativos.
 
@@ -17,7 +17,6 @@
  
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
