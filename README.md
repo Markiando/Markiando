@@ -8,7 +8,7 @@
 
 ### 🌱 Sobre mí 
 - 🎓 Estudiante de Ingeniería en Software apasionada por el desarrollo web y la innovación tecnológica.  
-- 💻 Actualmente aprendiendo **React**, **TailwindCSS**.  
+- 💻 Actualmente aprendiendo **React**, **Java**.  
 - 🌍 Me interesa crear proyectos de impacto sostenible, tecnología verde e IoT.  
 - 🚀 Siempre buscando nuevos desafíos en hackathons y proyectos colaborativos.
 
